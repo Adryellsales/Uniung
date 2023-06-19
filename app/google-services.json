@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "779083392086",
+    "project_id": "uniung-cf96c",
+    "storage_bucket": "uniung-cf96c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779083392086:android:83bac29eb6cf4e697247f7",
+        "android_client_info": {
+          "package_name": "com.adryell.uniung"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779083392086-8l1m3mvrrp7dqi2vaa2l07rcg4s67jjn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adryell.uniung",
+            "certificate_hash": "53e4cadbc71f2b0530c26914d70ef9e768e96eab"
+          }
+        },
+        {
+          "client_id": "779083392086-fdmh22ptalncebhrkk598fdja214l21e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe561Nc-JvfnEgda9ULnjJqfDjpCs7OUg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "779083392086-fdmh22ptalncebhrkk598fdja214l21e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
